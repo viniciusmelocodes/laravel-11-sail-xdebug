@@ -1,4 +1,4 @@
-# Criação desse repositório com Linux
+# Criação desse repositório com Linux e WSL
 
 Criar projeto:
 
